@@ -269,6 +269,9 @@ pt-BR:
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
   comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
+  search_placeholder_text    : "Escreva os termos da busca"
+  results_found              : "Resultado(s) encontrado(s)"
+  back_to_top                : "Voltar para o topo"
 
 # Italian
 # -------
