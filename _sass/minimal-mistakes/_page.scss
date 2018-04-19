@@ -75,7 +75,7 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: .8em;
   }
 
   /* paragraph indents */
@@ -92,6 +92,10 @@
   }
 
   a:not(.btn) {
+    &, &:visited, &:focus, &:active{
+      color: #000 !important;
+    }
+
     &:hover {
       text-decoration: underline;
 
