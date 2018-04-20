@@ -207,7 +207,7 @@ body:hover .visually-hidden button {
   .fa-facebook,
   .fa-facebook-square,
   .fa-facebook-f {
-    color: $text-color;
+    color: $ruby-color;
   }
 
   .fa-flickr {
@@ -221,7 +221,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $text-color;
+    color: $ruby-color;
   }
 
   .fa-google-plus,
@@ -231,7 +231,7 @@ body:hover .visually-hidden button {
   }
 
   .fa-instagram {
-    color: $text-color;
+    color: $ruby-color;
   }
 
   .fa-lastfm,
@@ -241,7 +241,15 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-in {
-    color: $text-color;
+    color: $ruby-color;;
+  }
+
+  .fa-map-marker-alt {
+    color: $ruby-color;
+  }
+
+  .fa-envelope {
+    color: $ruby-color;
   }
 
   .fa-pinterest,
@@ -271,7 +279,7 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $text-color;
+    color: $ruby-color;
   }
 
   .fa-vimeo,
