@@ -14,7 +14,8 @@
 </script>
 
 <!-- For all browsers -->
-<link href="{{ "assets/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?{{site.time | date: '%s%N'}}">
 
 <!--[if lte IE 9]>
   <style>
