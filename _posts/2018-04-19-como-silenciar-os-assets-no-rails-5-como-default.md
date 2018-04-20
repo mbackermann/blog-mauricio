@@ -2,7 +2,7 @@
 title: "Silenciando os logs de assets no Rails 5 por padrão"
 excerpt: "Aprenda como configurar os logs de assets no ambiente de desenvolvimento a partir do Rails 5."
 categories:
-  - ruby-on-rails
+  - javascript
 tags:
   - ruby-on-rails
   - web
