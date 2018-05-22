@@ -2,8 +2,8 @@
 title: "Como visualizar e-mails com ActionMailer::Preview"
 excerpt: "Com o ActionMailer::Preview você consegue visualizar como seus e-mails vão ficar após serem enviados."
 header:
-  teaser: "/assets/images/preview.jpg"
-  og_image: "/assets/images/preview.jpg"
+  teaser: "/assets/images/email-preview.jpg"
+  og_image: "/assets/images/email-preview.jpg"
   overlay_image: "/assets/images/overlay_rails.jpg"
 
 categories:

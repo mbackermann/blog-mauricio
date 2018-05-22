@@ -2,8 +2,8 @@
 title: "Como e por que usar Yarn no Rails?"
 excerpt: "O Yarn facilita o gerenciamento de dependências de bibliotecas, além de ser rápido e fácil de usar"
 header:
-  teaser: "/assets/images/yarn_rails.jpg"
-  og_image: "/assets/images/yarn_rails.jpg"
+  teaser: "/assets/images/yarn-rails.jpg"
+  og_image: "/assets/images/yarn-rails.jpg"
   overlay_image: "/assets/images/overlay_rails.jpg"
 
 categories:

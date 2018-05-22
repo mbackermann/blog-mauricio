@@ -23,7 +23,7 @@ description              : "Um blog sobre Ruby on Rails, frameworks Javascript e
 url                      : https://mauricioackermann.com.br
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mauricioackermann/blog-mauricio
-teaser                   : /assets/images/programming.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/default_image.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -271,4 +271,4 @@ defaults:
       share: true
       related: true
       header:
-        og_image: /assets/images/programming.jpg
+        og_image: /assets/images/default_image.jpg
