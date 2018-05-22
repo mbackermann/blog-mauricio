@@ -4,6 +4,7 @@ excerpt: "O Yarn facilita o gerenciamento de dependências de bibliotecas, além
 header:
   teaser: "/assets/images/yarn_rails.jpg"
   og_image: "/assets/images/yarn_rails.jpg"
+  overlay_image: "/assets/images/overlay_rails.jpg"
 
 categories:
   - ruby-on-rails

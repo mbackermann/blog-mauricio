@@ -1,6 +1,8 @@
 ---
 title: "Date#prev_ocurring e Date#next_ocurring - Como achar o último e o próximo dia específico da semana"
 excerpt: "No Rails 5.2, foram adicionados dois novos métodos no modulo DateAndTime: next_occurring e prev_occurring"
+header:
+  overlay_image: "/assets/images/overlay_rails.jpg"
 categories:
   - ruby-on-rails
 tags:

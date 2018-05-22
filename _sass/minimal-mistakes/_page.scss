@@ -144,7 +144,7 @@ SINGLE PAGE/POST
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 100% 100%;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
@@ -534,5 +534,12 @@ Wide Pages
     @include breakpoint($x-large) {
       padding-right: 0;
     }
+  }
+}
+
+
+@media only screen and (max-width: 1024px){
+  .page__hero--overlay {
+    background-position: 0% 0%;
   }
 }
